@@ -6,9 +6,11 @@ email: {email}
 website: {portfolio}
 ---------------------*/
 
+
 /*
 	Vendor imports (libs etc)
 */
+
 @import 'vendor/normalize.css';
 @import 'vendor/browserupgrade.css';
 @import 'vendor/smart-grid.css';
